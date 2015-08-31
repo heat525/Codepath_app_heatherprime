@@ -22,3 +22,7 @@ Walkthrough of all user stories:
 
 GIF created with  [LiceCap](http://www.cockos.com/licecap/ "LiceCap")
 
+
+Walkthrough of updates to app 8/30/15
+
+![](https://cloud.githubusercontent.com/assets/8173243/9570913/5b44577e-4f4a-11e5-8f82-c01c7b138ce6.gif)
